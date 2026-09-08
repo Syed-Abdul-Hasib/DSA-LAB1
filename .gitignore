@@ -68,7 +68,7 @@ vcpkg_installed/
 Testing/
 .cache/
 
-# IDE metadata (keep .sln and .vcxproj if instructed to submit them)
+# IDE metadata 
 .vscode/
 .idea/
 
