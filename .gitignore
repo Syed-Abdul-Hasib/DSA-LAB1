@@ -67,3 +67,11 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# IDE metadata (keep .sln and .vcxproj if instructed to submit them)
+.vscode/
+.idea/
+
+# Debug/Release output folders
+/Debug/
+/Release/
